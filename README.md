@@ -1,6 +1,5 @@
 # RazorpayReactNative
 
-This app is used to send text content to other apps.
 
 ### Development Environment 
 - Node 11.8.0
