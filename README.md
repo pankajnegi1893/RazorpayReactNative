@@ -17,4 +17,3 @@ This app is used to send text content to other apps.
 ### Screenshot :-
 
 ![ScreenShot](/screenshots/1.png)
-![ScreenShot](/screenshots/2.png)
